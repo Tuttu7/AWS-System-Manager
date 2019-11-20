@@ -32,4 +32,5 @@ echo -e "{
  }"
  ```
  
- 
+ ![command status](sytem_manager.jpg)
+ ![output status](system_manager1.jpg)
