@@ -31,5 +31,6 @@ echo -e "{
 \n 'Instance Type':'`curl http://169.254.169.254/latest/meta-data/instance-type --silent`'
  }"
  ```
-![Command Output](system_manager.jpg)
+![Command status](system_manager.jpg)
 
+![Command Output](system_manager1.jpg)
